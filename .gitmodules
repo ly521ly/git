@@ -1,0 +1,6 @@
+[submodule "classes/system"]
+	path = classes/system
+	url = https://github.com/Mirantis/reclass-system-salt-model
+[submodule "/root/git/dev/classes/system"]
+	path = /root/git/dev/classes/system
+	url = https://github.com/Mirantis/reclass-system-salt-model
